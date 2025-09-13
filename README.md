@@ -1,5 +1,5 @@
 # GalTongRun
-
+Unity game project
 ## Release
 [v1.2](https://github.com/k03302/GalTongRun/releases/tag/v1.2)
 
