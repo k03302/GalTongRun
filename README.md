@@ -1,7 +1,7 @@
 # GalTongRun
 
 ## Release
-v1.2
+[v1.2](https://github.com/k03302/GalTongRun/releases/tag/v1.2)
 
 <img src="./Assets/Sprites/galtongApp.png" width="100"/>
 
